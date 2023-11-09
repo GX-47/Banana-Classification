@@ -11,7 +11,7 @@ In the `dataset` folder, you will find a meticulously curated collection of imag
 Follow these simple steps to get started with the Banana Classification project:
 
 1. **Download the Dataset:**
-   - Download the dataset from `[dataset link](https://www.kaggle.com/datasets/akash47anand/fresh-or-rotten-banana)` into the root folder.
+   - Download the dataset from [dataset link](https://www.kaggle.com/datasets/akash47anand/fresh-or-rotten-banana) into the root folder.
    - Unzip the file to in the root directory.
 
 2. **Run the Jupyter Notebook:**
